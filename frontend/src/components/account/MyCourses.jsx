@@ -2,7 +2,7 @@ import React from 'react'
 
 const MyCourese = () => {
   return (
-    <div>MyCourese</div>
+    <div>MyCourses</div>
   )
 }
 
