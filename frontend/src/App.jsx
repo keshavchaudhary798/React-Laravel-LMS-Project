@@ -6,7 +6,7 @@ import Details from './components/pages/Details'
 import Login from './components/pages/Login'
 import Register from './components/pages/Register'
 import MyCourses from './components/account/MyCourses'
-import CoursesEnrolled from './components/account/CoursesEnrolled'
+import CoursesEnrolled from './components/account/MyLearning'
 import WatchCourses from './components/account/WatchCourses'
 import ChangePassword from './components/account/ChangePassword'
 
